@@ -1,5 +1,6 @@
-*.swp
 _site
-bin
-.bundle
+node_modules
 .DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh
